@@ -1,4 +1,4 @@
-# To test the aplication try visiting temp-mail.org
+# To test the application try visiting temp-mail.org
 
 from email.message import EmailMessage
 import ssl
