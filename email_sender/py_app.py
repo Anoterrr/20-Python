@@ -1,3 +1,5 @@
+# To test the aplication try visiting temp-mail.org
+
 from email.message import EmailMessage
 import ssl
 import smtplib
