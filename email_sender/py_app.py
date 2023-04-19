@@ -8,7 +8,7 @@ em = EmailMessage()
 
 email_sender = "Your email"
 email_password = "Password generate by your email"
-email_reciver = "Email that will recive"
+email_reciver = "Email that will recive the mensage"
 
 subject = "Important topic"
 body = """
