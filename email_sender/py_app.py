@@ -7,7 +7,7 @@ import smtplib
 em = EmailMessage()
 
 email_sender = "Your email"
-email_password = "Password genete by your email"
+email_password = "Password generate by your email"
 email_reciver = "Email that will recive"
 
 subject = "Important topic"
